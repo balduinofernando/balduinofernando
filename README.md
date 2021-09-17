@@ -10,7 +10,6 @@
 ### Estatísticas
 ![Balduino's GitHub stats](https://github-readme-stats.vercel.app/api?username=balduinofernando&count_private=true&show_icons=true&theme=nord&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balduinofernando)](https://github.com/balduinofernando)
 
 ## Tecnologias que uso
 <div style="display:inline_block"> 
