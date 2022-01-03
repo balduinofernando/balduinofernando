@@ -2,7 +2,7 @@
 ### Meus Links:
 
 [![Blog](https://img.shields.io/website?label=Anciao&style=for-the-badge&url=https://www.anciao.ao/)](https://www.anciao.ao)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.anciao.ao)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6kHAOv_v3lThw-FrSbuaow)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://www.fb.com/bafernando94)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anciao_dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anciao_dev)
@@ -30,5 +30,10 @@
 
 #### Um Tipo Simples de Homem, Apaixonado por Programação, Ensino,Tecnologia, Música e tudo de bom que a vida proporcionar.
 
+## Olhe só as minhas leituras no <Daily.Dev>
+<a href="https://app.daily.dev/bafernando94"><img src="https://api.daily.dev/devcards/72d75bb6533f46ddb0615539b370bafa.png?r=gyw" width="400" alt="Balduino Fernando's Dev Card"/></a>
+
+
 ## Projectos em Desenvolvimento
+
 
