@@ -31,7 +31,7 @@
 #### Um Tipo Simples de Homem, Apaixonado por Programação, Ensino,Tecnologia, Música e tudo de bom que a vida proporcionar.
 
 ## Olhe só as minhas leituras no <Daily.Dev>
-<a href="https://app.daily.dev/bafernando94"><img src="https://api.daily.dev/devcards/72d75bb6533f46ddb0615539b370bafa.png?r=gyw" width="400" alt="Balduino Fernando's Dev Card"/></a>
+<a href="https://app.daily.dev/bafernando94"><img src="https://github.com/balduinofernando/balduinofernando/blob/main/devcard.svg" width="400" alt="Balduino Fernando's Dev Card"/></a>
 
 
 ## Projectos em Desenvolvimento
