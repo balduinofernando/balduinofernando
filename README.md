@@ -1,7 +1,7 @@
 ## Ola Mundo, aqui é o Balduino Fernando 👋
 ### Meus Links:
 
-[![Blog](https://img.shields.io/website?label=Anciao&style=for-the-badge&url=https://www.anciao.ao/)](https://www.anciao.ao)
+[![Blog](https://img.shields.io/website?label=Anciao&style=for-the-badge&url=https://www.balduino.it.ao/)](https://www.balduino.it.ao)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6kHAOv_v3lThw-FrSbuaow)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://www.fb.com/bafernando94)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anciao_dev/)
